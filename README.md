@@ -1,4 +1,3 @@
-```markdown
 # 🚀 AI Data Extraction & Automation System
 
 > Transform messy PDFs, Excel files, and CSV data into clean, structured outputs using AI 🤖
@@ -146,4 +145,3 @@ If you liked this project, let’s connect on LinkedIn!
 
 ⭐ Don’t forget to star this repo if you found it useful!
 
-````
