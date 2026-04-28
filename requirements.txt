@@ -1,0 +1,5 @@
+pandas
+pdfplumber==0.10.3
+openai
+fastapi
+uvicorn
