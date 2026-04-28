@@ -36,21 +36,21 @@ Businesses deal with:
 
 ## ⚙️ Features
 
-✨ Extract data from:
-- PDFs 📄  
-- Excel 📊  
-- CSV files 📁  
+### 📄 Data Extraction
+- PDFs  
+- Excel  
+- CSV  
 
-✨ Data Processing:
+### 🧹 Data Processing
 - Cleaning & transformation  
 - Validation engine  
 - Error handling  
 
-✨ AI Integration:
+### 🤖 AI Integration
 - LLM-based extraction (GPT)  
 - Prompt engineering  
 
-✨ UI:
+### 🎨 UI
 - Streamlit-based interface  
 - Upload → Process → Download  
 
@@ -147,6 +147,3 @@ If you liked this project, let’s connect on LinkedIn!
 ⭐ Don’t forget to star this repo if you found it useful!
 
 ````
-
----
-
