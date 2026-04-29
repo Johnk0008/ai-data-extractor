@@ -140,6 +140,7 @@ Feel free to fork this repo and improve it 🚀
 ## 📬 Connect With Me
 
 If you liked this project, let’s connect on LinkedIn!
+https://www.linkedin.com/in/johnk0008/
 
 ---
 
